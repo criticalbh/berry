@@ -1,8 +1,8 @@
 name: berry
 description: Dependency injection container.
 version: 0.0.1
-#homepage: https://github.com/criticalbh/berry
-#author: admirsabanovic
+homepage: https://github.com/criticalbh/berry
+author: admirsabanovic <admir_sabanovic@live.com>
 
 environment:
   sdk: '>=2.0.0 <3.0.0'
