@@ -1,6 +1,6 @@
 # berry
 
-A library for Dart developers.
+Simple dependency injection container.
 
 ## Usage
 
